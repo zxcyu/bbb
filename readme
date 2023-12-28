@@ -1,0 +1,11 @@
+db1:psql
+  username: user1
+  password: 1234
+  tabel: user
+  
+db2:psql
+  username: user1
+  password: 1234
+  tabel: user
+  
+Выполняется копирование полей из одной таблице в другую 
